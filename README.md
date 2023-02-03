@@ -1,4 +1,5 @@
 # CY_projet_meteo 
+Projet réalisé par Brenda SEPRIERE et Cyrine AROUA
 ## Description
 CY-Météo est un projet combinant **shell** et **C**.
 À partir de données météorologique et d'arguments que vous spécifierez, le programme va sélectionner et trier les données. Grace à l'utilitaire gnuplot, cela va permettre de générer différents graphiques.
