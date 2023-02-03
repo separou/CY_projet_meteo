@@ -5,9 +5,6 @@
 tout_arguments=$*  #les arguments que l'utilisateur va insérer
 mode_tri="avl"
 
-#awk -F [,;] '{print $1";"$2";"$3";"$4";"$5";"$6";"$7";"$8";"$9";"$10";"$11";"$12";"$13";"$14";"$15}' meteo_filtered_data_v1.csv > meteo.csv#pas sur cest sque imad ma dit de faire mai ca marche pas
-
-
 
 #teste pour savoir si les fichiers temporaires existent
 if [ -d temp_t ]; then
