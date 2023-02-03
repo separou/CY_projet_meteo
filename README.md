@@ -61,8 +61,9 @@ Fichiers fournis :
  - prog.h
  - prog.c
  - Makefile
- - help.txt
  - data.csv
+ - Read.me.txt
+ - Méthode de projet
 
 
 > Note : Si vous voulez remplacer le fichier servant de base de donnée par un autre fichier, celui-ci devra avoir la même mise en forme que l'original.
