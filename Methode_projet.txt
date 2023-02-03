@@ -1,0 +1,15 @@
+Pour ce projet nous avons commence par nous répartir les taches de tel sort à se que Brenda fasse le Script shell et Cyrine le programme en C.
+
+
+Cependant au vu des difficulte rencon à l'écriture du  code , nous avons décid de  changer le plan du debut et travailler ensemble tout d'abord sur  le Script
+ensui  sur le C.
+
+
+Nous avons utilis plusieurs ressou afin d'aboutir au projte:
+-differenrs sites internet qui nous on aidé a trouver les commande Script Shell
+-Pour le C nous nous sommes inspirée des algorithme vu en cour (AVL, ABR, Liste...)
+-differenes video  youtube pour utiliser le Gnuplot
+
+
+Malgré de nombreux Moyen nous n'avons pas reussir  à tous faire car notre code comportait plusieur erreur nottament pour afficher les graphique et utiliser le Makefile.
+
