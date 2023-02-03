@@ -1,0 +1,15 @@
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
+plot '' using 1:5:3:4 with yerrorbar
